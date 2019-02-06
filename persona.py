@@ -16,3 +16,5 @@ class Personal:
 persona1 = Personal("Emilio", 30, "Doctor.")
 persona2 = Personal("Jose", 40, "Cientifico.")
 persona3 = Personal("Roberto", 50, "Astronauta.")
+
+
