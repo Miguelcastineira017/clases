@@ -17,4 +17,7 @@ pepito1 = Dino("Pepe", "azul")
 pepito2 = Dino("Pepo", "rojo")
 pepito3 = Dino("Pepx", "rosa")
 
+
+
+
 pepo= Dino(un_color="Pink", un_nombre="Floyd")
