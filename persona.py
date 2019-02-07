@@ -4,7 +4,6 @@
 # crear una clase persona(), en el archivo persona.py que tenga como atributos
 #nombre, edad y profesion
 #al instaciar la clase tiene que saludar igual que dino diciendo sus atributos
-
 class Personal:
 
     def __init__(self, un_nombre=" ", un_edad="", un_profesion=" "):
@@ -23,7 +22,8 @@ persona3 = Personal("Roberto", 51, "Astronauta.")
 
 # Agregar un metodo(self)a la clase persona, que se llame cumpleanhos
 # y aumente la edad de la persona en un anho y retorna la edad
-
 persona1.cumpleanhos()
 persona2.cumpleanhos()
 persona3.cumpleanhos()
+
+modificacion
